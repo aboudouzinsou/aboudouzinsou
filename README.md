@@ -9,12 +9,9 @@
 - **Database Management**: MongoDB, SQL
 - **Version Control**: Git, GitHub
 
-💼 **Professional Experience:**
-- Developed and maintained scalable backend systems for various projects.
-- Collaborated with cross-functional teams to deliver high-quality software solutions.
-- Implemented robust API endpoints to enhance application functionality.
+💼 **Projects:**
 
-🎓 **Education:**
+
 
 
 🌐 **Let's Connect:**
