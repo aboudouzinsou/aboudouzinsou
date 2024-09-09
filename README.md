@@ -15,7 +15,7 @@
 
 
 🌐 **Let's Connect:**
-- [GitHub](https://github.com/aboudouzinsou) | [LinkedIn](https://www.linkedin.com/in/françois-zinsou-ab8099316)
+- [GitHub](https://github.com/aboudouzinsou) | [LinkedIn](https://www.linkedin.com/in/françois-zinsou-ab8099316) | [Portofolio](https://www.devcase.me/aboudouzinsou)
 
 
 <!---
